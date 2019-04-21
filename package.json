@@ -1,0 +1,22 @@
+{
+  "name": "video_maker",
+  "version": "1.0.0",
+  "description": "\t",
+  "main": "index.js",
+  "scripts": {
+    "test": "git repository: https://github.com/sambrasil/Video_maker.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambrasil/Video_maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambrasil/Video_maker/issues"
+  },
+  "homepage": "https://github.com/sambrasil/Video_maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
