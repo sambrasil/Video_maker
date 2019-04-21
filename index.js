@@ -1,8 +1,11 @@
+
+const readline = require('readline-sync')
 function start() {
     const content = {}
 
     content.searchTerm = askAndReturnSearchTerm()
     content.prefix = askAndReturnPrefix()
+
 
     function askAndReturnSearchTerm() {
         return readline.question('Type a Wikipedia search term:')
